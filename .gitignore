@@ -1,0 +1,17 @@
+/node_modules/
+/dist/
+/设计稿/
+/config/*.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+后期需求.txt
+.DS_Store
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
